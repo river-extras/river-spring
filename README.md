@@ -1,1 +1,1 @@
-# Spring Framework: Apache River Extensions
+# Apache RIver: Spring Framework Extensions
